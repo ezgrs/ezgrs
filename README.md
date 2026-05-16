@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ezgrs&label=Profile%20views&color=0e75b6&style=flat" alt="ezgrs" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzo-santos" alt="enzo-santos" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzo-santos&theme=darkhub&no-frame=true&rank=-?&margin-w=5" alt="enzo-santos" /></a> </p>
 
 - 🔭 I’m currently working on [Tradeland](https://github.com/ezgrs/tradeland) (my humble idle game)
 
