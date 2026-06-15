@@ -24,13 +24,13 @@
 
 ## Projects
 
-| Name                 | Language   | Framework |    Type   |  Status |        Deployed       | Doccumented | Automated tests |
-|----------------------|:----------:|:---------:|:---------:|:-------:|:---------------------:|:-----------:|:------:|
-| the-walking-dead-hub | Python     |  FastAPI  |  Back-end |    ❌   | Azure (Container App) |      ❌      |    ❌   |
-| the-walking-dead-hub | Dart       |  Flutter  | Front-end |    ❌   |      GitHub Pages     |      ❌      |    ❌   |
-| imgur-brute-crawler  | Python     |  FastAPI  |  Back-end |    ⭕   |    GCP (Cloud run)    |      ⭕      |    ❌   |
-| lowdie               | Typescript |    Node   |  Back-end |    ❌   |      AWS (Lambda)     |      ⭕      |    ❌   |
-| tradeland            | Typescript |   React   | Front-end |    ❌   |      GitHub Pages     |      ❌      |    ❌   |
+| Name      | Language   | Framework |    Type   |  Status |        Deployed       |  Documented | Automated tests |
+|-----------|:----------:|:---------:|:---------:|:-------:|:---------------------:|:-----------:|:------:|
+| wkdead    | Python     |  FastAPI  |  Back-end |    ❌   | Azure (Container App) |      ❌      |    ❌   |
+| wkdead    | Dart       |  Flutter  | Front-end |    ❌   |      GitHub Pages     |      ❌      |    ❌   |
+| imgurdex  | Python     |  FastAPI  |  Back-end |    ⭕   |    GCP (Cloud run)    |      ⭕      |    ❌   |
+| lowdie    | Typescript |    Node   |  Back-end |    ❌   |      AWS (Lambda)     |      ⭕      |    ❌   |
+| tradeland | Typescript |   React   | Front-end |    ❌   |      GitHub Pages     |      ❌      |    ❌   |
 
 ## Contacts
 
