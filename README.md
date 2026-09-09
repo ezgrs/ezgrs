@@ -1,23 +1,55 @@
-<h1 align="center">Hi 👋, I'm Enzo</h1>
-<h3 align="center">A back-end (sometimes full-stack) developer from Brazil</h3>
+<h1 align="center">Howdy, I'm Enzo!</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ezgrs&label=Profile%20views&color=0e75b6&style=flat" alt="ezgrs" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ezgrs&label=Profile%20views&color=0e75b6&style=flat" alt="ezgrs" />
+    <a href="https://github.com/ezgrs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ezgrs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/enzo-santos" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@enzo--santos-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+</p>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/ezgrs" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white"></a>
+    <a href="https://orcid.org/0000-0002-8927-4491" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/9997212" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+    <a href="https://dev.to/ezgrs" target="_blank"><img alt="dev.to" src="https://img.shields.io/badge/-dev.to-gray?style=flat-square&logo=dev.to&logoColor=white"></a>
+    <a href="https://medium.com/@ezgrs" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-Medium-gray?style=flat-square&logo=medium&logoColor=white"></a>
+    <a href="https://www.hackerrank.com/ezgrs" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-gray?style=flat-square&logo=hackerrank&logoColor=white"></a>
+</p>
+
+
+<!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzo-santos&theme=darkhub&no-frame=true&rank=-?&margin-w=5" alt="enzo-santos" /></a> </p>
+-->
 
-- 🌱 I’m currently learning **Tailwind and shadcn**
+```console
+enzo@santos:~$ whoami
+                        @@@@@:                          STATS ╴───────────────────────────────────────────────────────           
+                   *@@@@@@@@@@@@@@                      . OS: ........................... Enzo Gabriel da Rocha Santos
+                  @@@@@@@@@@@@@@@@@@#                   . Uptime: ................................. 24 years, 7 months
+                %@@@%:. ....:+@@@@@@@@                  . Host: .................................... Belém, PA, Brazil
+               -@@@- ...:-:.:.    .@@@%                 . Kernel: ...................... Full-Stack Software Developer
+               :@@@.......:::-:     @@@                 .
+                @@=   ...:..::=*+=: @@@                 - Network ╴───────────────────────────────────────────────────
+                @@ .*+.   ::-=-:=*=.@@%                 . Status: ................................................. ON
+               -@=#%+.#@@-     .. .=@@                  . Hostname: ........................... https://enzosantos.dev
+                .-  +:@+ @ @@@@%@@% @                   . Ports:
+               .+:.   -. @ @#%:@%@*%@                   .   [OPEN] 22 (Phone Number): ................. +5591993873814
+               -#.::*#=:% .@@..--.#@                    .   [OPEN] 80 (Email Address): ........... ezgrs.dev@gmail.com
+                :-        =%@%.:+#@+                    .   [OPEN] 443 (LinkedIn): ............. linkedin.com/in/ezgrs
+                 %.        - =   #@                     . 
+                  .-@@@@@@@@@@@-#@                      - Hardware ╴──────────────────────────────────────────────────
+                 #.        -=..-                        . Motherboard: ................ Python, Dart, Typescript, Java
+           *@@@@@@.:   .#@*::.:@@@*                     . CPU: ......................... FastAPI, Node.js, Spring Boot
+     +%@@@@@@%%@.:  @@* . -@@*:@#@@@@@*                 . GPU: ............................... Flutter, React, Angular
+  @@@@@@%==*++=% :.  +@@@@@@#.+@+@@*##@@@=              . Storage: ................ PostgreSQL, SQLite, MongoDB, Redis
+ @%#*+=*==#*#*=@  .:.    :   *@@#@#+#+*+%@@@            . RAM: ................  Docker, Git, GitHub Actions, AWS, GCP
+.*-#=+#*-%*=*+=@   ..::-=: .@@+%*+@#@#@##%#@@@@         .
+..*+-**-*@:%==#*%         %@#+@**#=%#@**#@#+@=@@        - Processes ╴─────────────────────────────────────────────────
+.-@*##==@-+@-=###@-    .@@@*:%#+*@+@%@**@@+#+*%@@       .   [RUNNING] Gaming | Fitness | Music | Cycling | TV Shows
+:-@#*-+@--@*=+=@+%@@@@@@@@*+.@*.@%-%%*+##@##@#**@.      .   [IDLE] Reading | Rubik's Cube
 
-- 👯 I’m looking to collaborate on [dorm](https://github.com/beet-software/dorm) (my Dart ORM)
-
-- 👨‍💻 All of my personal projects are available at [https://github.com/enzo-santos](https://github.com/enzo-santos)
-
-- 📝 I sometimes write articles on [https://enzosantos.dev](https://enzosantos.dev)
-
-- 💬 Ask me anything about **Python and Flutter**
-
-- 📫 Reach me at **ezgrs.dev@gmail.com**
-
-- ⚡ Fun fact: **I love some rock music**
+enzo@santos:~$ credits
+Inspired by Andrew Grant (https://github.com/Andrew6rant)
+```
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-santos&theme=github-dark-blue" alt="enzo-santos" /></p>
 
@@ -31,17 +63,6 @@
 | imgurdex  | Python     |  FastAPI  |  Back-end |    ⭕   |    GCP (Cloud run)    |      ⭕      |    ❌   |
 | lowdie    | Typescript |    Node   |  Back-end |    ❌   |      AWS (Lambda)     |      ⭕      |    ❌   |
 | tradeland | Typescript |   React   | Front-end |    ❌   |      GitHub Pages     |      ❌      |    ❌   |
-
-## Contacts
-
-<p align="left">
-<a href="https://codepen.io/ezgrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ezgrs" height="30" width="40" /></a>
-<a href="https://dev.to/ezgrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ezgrs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ezgrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezgrs" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9997212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9997212" height="30" width="40" /></a>
-<a href="https://medium.com/@ezgrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ezgrs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ezgrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ezgrs" height="30" width="40" /></a>
-</p>
 
 ## Languages and tools
 
