@@ -32,9 +32,9 @@ enzo@santos:~$ whoami
 @@@@@@@@+%@@@@%%%%%%#########*-%@@@@@@@      . Status: ................................................. ON
 @@@@@@@@#@@@@@@%%%%%%########*=@@@@@@@@      . Hostname: ........................... https://enzosantos.dev
 @@@@@@@@#@%%+===+*%%%%##****##*@@@@@@@@      . Ports:
-@@@@@@@*==###*==*####*+=+*****==@@@@@@@      .   [OPEN] 22 (Phone Number): ................. +5591993873814
-@@@@@@@%+%@%#=-=*==-==+=--=+*==*@@@@@@@      .   [OPEN] 80 (Email Address): ........... ezgrs.dev@gmail.com
-@@@@@@@@##@@%%%%%*%%-*#********@@@@@@@@      .   [OPEN] 443 (LinkedIn): ............. linkedin.com/in/ezgrs
+@@@@@@@*==###*==*####*+=+*****==@@@@@@@      .   [OPEN] 22/phonenumber: .................... +5591993873814
+@@@@@@@%+%@%#=-=*==-==+=--=+*==*@@@@@@@      .   [OPEN] 80/emailaddress: .............. ezgrs.dev@gmail.com
+@@@@@@@@##@@%%%%%*%%-*#********@@@@@@@@      .   [OPEN] 443/linkedin: ............... linkedin.com/in/ezgrs
 @@@@@@@@@%@@%%##*%@#*+#######*@@@@@@@@@      . 
 @@@@@@@@@@@@*++%@@%###+++***#%@@@@@@@@@      - Hardware ╴──────────────────────────────────────────────────
 @@@@@@@@@@@%#%@%#*#*-=++++###@@@@@@@@@@      . Motherboard: ................ Python, Dart, Typescript, Java
@@ -44,8 +44,8 @@ enzo@santos:~$ whoami
 @@@*=-:::--+@%%@%#++*#*****=:::::::::::      . RAM: ................  Docker, Git, GitHub Actions, AWS, GCP
 +==-::::=--*%@%+=+===-=****+:::::::::::      .
 --::::--=--+@%%%#++********=:::::::::::      - Processes ╴─────────────────────────────────────────────────
-::::---==-=+#%%%%##*#*****+::::-:::::-:      .   [RUNNING] Gaming | Fitness | Music | Cycling | TV Shows
-::::-==---=+#%@@##%%#####---:--::::----      .   [IDLE] Reading | Rubik's Cube | Playing Keyboard
+::::---==-=+#%%%%##*#*****+::::-:::::-:      .   [RUNNING] Gaming, Working Out, Cycling, Watching TV Shows
+::::-==---=+#%@@##%%#####---:--::::----      .   [IDLE] Reading, Solving Rubik's Cube, Playing Keyboard
 
 enzo@santos:~$ credits
 Inspired by Andrew Grant's README (https://github.com/Andrew6rant)
