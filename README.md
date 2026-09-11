@@ -25,7 +25,7 @@ enzo@santos:~$ whoami
 @@@@@@@@@@@@%*+==========*@@@@@@@@@@@@@      STATS ╴───────────────────────────────────────────────────────
 @@@@@@@@@@+===--=----------=*@@@@@@@@@@      . OS: ........................... Enzo Gabriel da Rocha Santos
 @@@@@@@@+=-=-==+====-=--:-::-*@@@@@@@@@      . Uptime: ................................. 24 years, 7 months
-@@@@@@@#=-=+*######******+=----#@@@@@@@      . Host: .................................... Belém, PA, Brazil
+@@@@@@@#=-=+*######******+=----#@@@@@@@      . Host: .................................. Belém, Pará, Brazil
 @@@@@@@#==*%%%%%%##########*=-:-%@@@@@@      . Kernel: ...................... Full-Stack Software Developer
 @@@@@@@@=*%@@%%%%############*-:#@@@@@@      .
 @@@@@@@@=#@@@@%%%%%%##########=+@@@@@@@      - Network ╴───────────────────────────────────────────────────
@@ -53,16 +53,15 @@ Inspired by Andrew Grant's README (https://github.com/Andrew6rant)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzo-santos&theme=github-dark-blue" alt="enzo-santos" /></p>
 
+## Featured projects
 
-## Projects
-
-| Name      | Language   | Framework |    Type   |  Status |        Deployed       |  Documented | Automated tests |
-|-----------|:----------:|:---------:|:---------:|:-------:|:---------------------:|:-----------:|:------:|
-| wkdead    | Python     |  FastAPI  |  Back-end |    ❌   | Azure (Container App) |      ❌      |    ❌   |
-| wkdead    | Dart       |  Flutter  | Front-end |    ❌   |      GitHub Pages     |      ❌      |    ❌   |
-| imgurdex  | Python     |  FastAPI  |  Back-end |    ⭕   |    GCP (Cloud run)    |      ⭕      |    ❌   |
-| lowdie    | Typescript |    Node   |  Back-end |    ❌   |      AWS (Lambda)     |      ⭕      |    ❌   |
-| tradeland | Typescript |   React   | Front-end |    ❌   |      GitHub Pages     |      ❌      |    ❌   |
+<a href="https://github.com/ezgrs/dorm"><img src="https://img.shields.io/static/v1?label=&message=dorm&color=8f7ab8&labelColor=0f0f0f&style=flat&logo=dart&logoColor=f0f0f5" alt="dorm" /></a> - portable ORM for Dart, because one more database abstraction seemed reasonable.<br>
+<a href="https://github.com/ezgrs/wkdead"><img src="https://img.shields.io/static/v1?label=&message=wkdead&color=b87991&labelColor=0f0f0f&style=flat&logo=dart&logoColor=f0f0f5" alt="wkdead" /></a> - full-stack Walking Dead character analysis, with perhaps more data than strictly necessary.<br>
+<a href="https://github.com/ezgrs/imgurdex"><img src="https://img.shields.io/static/v1?label=&message=imgurdex&color=7099b5&labelColor=0f0f0f&style=flat&logo=python&logoColor=ffffff" alt="imgurdex" /></a> - distributed Imgur probing and archival tooling for finding what may still be out there.<br>
+<a href="https://github.com/ezgrs/barbalho-etl"><img src="https://img.shields.io/static/v1?label=&message=barbalho-etl&color=719d83&labelColor=0f0f0f&style=flat&logo=python&logoColor=ffffff" alt="barbalho-etl" /></a> - ETL pipeline for turning 300k+ pages of PDFs into something computers can tolerate.<br>
+<a href="https://github.com/ezgrs/ponto-g"><img src="https://img.shields.io/static/v1?label=&message=ponto-g&color=b87991&labelColor=0f0f0f&style=flat&logo=typescript&logoColor=f0f0f5" alt="ponto-g" /></a> - full-stack timesheet management with PDFs, APIs, and the usual paperwork.<br>
+<a href="https://github.com/ezgrs/lowdie"><img src="https://img.shields.io/static/v1?label=&message=lowdie&color=b89462&labelColor=0f0f0f&style=flat&logo=typescript&logoColor=f0f0f5" alt="lowdie" /></a> - multiplatform game bot with clean architecture, because even bots deserve some structure.<br>
+<a href="https://github.com/ezgrs/tradeland"><img src="https://img.shields.io/static/v1?label=&message=tradeland&color=b89462&labelColor=0f0f0f&style=flat&logo=react&logoColor=f0f0f5" alt="tradeland" /></a> - idle game about battles, loot, and an economy that mostly runs itself.<br>
 
 ## Languages and tools
 
