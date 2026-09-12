@@ -65,6 +65,5 @@ Inspired by Andrew Grant's README (https://github.com/Andrew6rant)
 
 ## Languages and tools
 
-<img width="1660" height="808" alt="image" src="https://github.com/user-attachments/assets/26f9cc11-e403-48b0-a6a0-e27e6c8f7554" />
-
+![My stack](https://stacktier-production.up.railway.app/tierlist?tier=BFFF7F;Used%20in%0Aproduction;python,postgres,docker,flutter,dart,firebase,git&tier=FFFF7F;Practiced%20a%20lot;java,kotlin,mongodb,go,nodedotjs,react,typescript,redis&tier=FFDF7F;Familiar%20with;express,nginx,prisma,gradle,linux,angular,tailwindcss,rabbitmq&tier=FFBF7F;Used%20before;android,grafana,c,cpp,gnubash,sentry&tier=CFCFCF;Wants%20to%20learn;vuedotjs,rust,graphql&theme=dark&labels=1&iconPadding=2&iconFontSize=12&iconSize=100)
 
